@@ -15,4 +15,4 @@ Technologies Used:
  - CSS3
  - JavaScript
 
-You may watch the preview by clicking the following link: https://timdvd.github.io/house_sldier_component/
+You may watch the preview by clicking the following link: https://timdvd.github.io/house_slider_component/
